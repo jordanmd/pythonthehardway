@@ -1,0 +1,2 @@
+# pythonthehardway
+My practice exercises
